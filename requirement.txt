@@ -1,0 +1,8 @@
+crewai
+crewai_tools
+PyPDF2
+python-dotenv
+langchain_google_genai
+Flask
+flask-cors
+werkzeug
